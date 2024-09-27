@@ -11,8 +11,3 @@ Currently studying to be a fullstack dev.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JbJet&icon=0&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-https://www.linkedin.com/in/joaquim-brasiliano-gon%C3%A7alves-a621a7206?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
