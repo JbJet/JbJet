@@ -2,7 +2,7 @@
 Currently studying to be a fullstack dev.
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark)]
+![My Skills](https://skillicons.dev/icons?i=css,html,js,php,py,mysql&theme=dark)
 
 
 ---
